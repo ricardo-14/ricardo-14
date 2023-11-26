@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Ricardo 😎🤞
   ##
 
-- 🔭 Participo do programa **+Devs2Blu C# 2023**
+- 🔭 Participei do programa **+Devs2Blu C# 2023**
 
 - 👨‍💻 Formado em **Análise e Desenvolvimento de Sistemas**
 
